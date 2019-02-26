@@ -21,18 +21,10 @@ npm install openzeppelin-solidity
 
 npm run dev (For running frontend app)
 ```
-## Star Name:
+## Star Name & Symbol & Contract Address:
 
 ```
-My Star Notary Token
-```
-## Star Name:
-
-```
-MSNT
-```
-## Rinkeby Contract Address:
-
-```
-0x78D7ced6c937152204F6F16114b2E8b439b9De32
+ERC-721 Token Name: My Star Notary Token
+ERC-721 Token Symbol: MSNT
+“Token Address” on the rinkeby Network: 0x78D7ced6c937152204F6F16114b2E8b439b9De32
 ```
